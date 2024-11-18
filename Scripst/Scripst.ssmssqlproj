@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Scripst">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="MGARCIA:MGARCIA\VICTUS">
+          <Created>2024-11-18T05:23:46.2799972-06:00</Created>
+          <Type>SQL</Type>
+          <Server>MGARCIA</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>False</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>False</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Crear Base Datos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MGARCIA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MGARCIA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Crear Base Datos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ejemplo Inicial.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MGARCIA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MGARCIA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Ejemplo Inicial.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insertar Registros.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MGARCIA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MGARCIA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insertar Registros.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
