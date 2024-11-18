@@ -28,6 +28,12 @@
           <AssociatedConnUserName />
           <FullPath>Anular Facturas.sql</FullPath>
         </FileNode>
+        <FileNode Name="Clausula Where.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MGARCIA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MGARCIA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Clausula Where.sql</FullPath>
+        </FileNode>
         <FileNode Name="Clausulas  SQL.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MGARCIA:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MGARCIA</AssociatedConnSrvName>
