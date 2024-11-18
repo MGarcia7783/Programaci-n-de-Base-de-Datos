@@ -106,6 +106,12 @@
           <AssociatedConnUserName />
           <FullPath>Tablas Temporales.sql</FullPath>
         </FileNode>
+        <FileNode Name="Variables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MGARCIA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MGARCIA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Variables.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
