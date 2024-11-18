@@ -22,6 +22,12 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="Anular Facturas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MGARCIA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MGARCIA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Anular Facturas.sql</FullPath>
+        </FileNode>
         <FileNode Name="Clausulas  SQL.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MGARCIA:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MGARCIA</AssociatedConnSrvName>
@@ -51,6 +57,12 @@
           <AssociatedConnSrvName>MGARCIA</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Insertar Registros.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Operadores Logicos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MGARCIA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MGARCIA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Operadores Logicos.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
