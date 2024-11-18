@@ -52,6 +52,12 @@
           <AssociatedConnUserName />
           <FullPath>Clausulas Join.sql</FullPath>
         </FileNode>
+        <FileNode Name="Comando Create.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MGARCIA:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>MGARCIA</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Comando Create.sql</FullPath>
+        </FileNode>
         <FileNode Name="Crear Base Datos.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:MGARCIA:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>MGARCIA</AssociatedConnSrvName>
